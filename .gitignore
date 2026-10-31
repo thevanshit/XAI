@@ -1,0 +1,40 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test, lint, and coverage output
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+# Model and framework caches
+.cache/
+model_cache/
+torch_cache/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# Local configuration and operating-system files
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# The paper is a reference artifact, not project source.
+research paper/
