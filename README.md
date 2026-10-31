@@ -478,6 +478,8 @@ automatically preserve.
 
 ## License and attribution
 
+This project is released under the [MIT License](./LICENSE).
+
 This project uses open-source packages including PyTorch, torchvision, timm,
 Gradio, Pillow, NumPy, and OpenCV. Follow each dependency's license terms.
 
